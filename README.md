@@ -56,16 +56,6 @@ Tabla `transacciones`:
 | monto    | REAL    | Valor de la transacción              |
 | tipo     | INTEGER | 1 = Ingreso, 2 = Gasto               |
 
-## Capturas de pantalla
-
-> Agrega tus capturas en la carpeta `docs/screenshots/` y reemplaza las rutas de abajo.
-
-### Lista de transacciones
-![Lista de transacciones](docs/screenshots/lista_transacciones.png)
-
-### Formulario de registro
-![Formulario de registro](docs/screenshots/formulario_transaccion.png)
-
 ## Requisitos
 
 - Android Studio (Ladybug o superior recomendado)
