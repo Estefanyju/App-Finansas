@@ -1,10 +1,26 @@
 # App Finansas
 
-**Estudiante:** Shirley *(completa tu nombre completo aquí)*
+**Estudiante:** Estefany Julieth Sanchez Rojas*
 
 ## Descripción
 
 Aplicación nativa Android para el registro de finanzas personales. Permite al usuario registrar ingresos y gastos diarios, visualizarlos en una lista dinámica con RecyclerView, editar registros existentes y eliminarlos. Los datos se almacenan de forma persistente en SQLite.
+
+## Prueba de funcionalidad
+
+<img width="420" height="755" alt="image" src="https://github.com/user-attachments/assets/34fa58b8-b091-42e1-a690-aa2f55e43b0f" />
+<img width="451" height="805" alt="image" src="https://github.com/user-attachments/assets/d3963b94-0c02-4573-b9f8-e4c9ca78902f" />
+<img width="447" height="810" alt="image" src="https://github.com/user-attachments/assets/294d8c0e-9769-4bf8-884c-928467d8d500" />
+<img width="450" height="795" alt="image" src="https://github.com/user-attachments/assets/8711d018-f9ae-41a2-b4bb-9463a76e75cd" />
+<img width="456" height="792" alt="image" src="https://github.com/user-attachments/assets/b74c039c-a92d-4550-82a3-0ed6c4341f43" />
+<img width="447" height="792" alt="image" src="https://github.com/user-attachments/assets/a75aaf3b-eeb1-430e-8740-9cfdaa1b9be7" />
+<img width="442" height="782" alt="image" src="https://github.com/user-attachments/assets/ee51631a-9c9b-4590-8ea7-54a59cfe34f1" />
+
+
+
+
+
+
 
 ## Funcionalidades
 
